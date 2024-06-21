@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Fullname: Umariy Jaloliddin 17.5-y.o, I studied at Robocode 2020-2021 November. Now i'm searching for web-dev work. 🔭 I’m currently working on <b>NoWhere</b></p>
+<p align="left">Fullname: Umariy Jaloliddin 17.5-y.o, I studied at Robocode 2020-2021 November. Now i'm searching for web-dev work. <br> 🔭 I’m currently working on Nowhere <br>🌱 I’m currently repeating all things which i learned</b> <br>💬 Ask me about <b>coding</b></p>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
