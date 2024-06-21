@@ -12,15 +12,15 @@
 ######
 
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h1 align="left">👩‍💻  About Me</h1>
 
-<h4 align="left">Fullname: Umariy Jaloliddin 17.5-y.o, I studied at Robocode 2020-2021 November. Now i'm searching for web-dev work. <br> <br> 🔭 I’m currently working on Nowhere <br>🌱 I’m currently repeating all things which i learned</b> <br>💬 Ask me about <b>coding</b></h4>
+<h3 align="left">Fullname: Umariy Jaloliddin 17.5-y.o, I studied at Robocode 2020-2021 November. Now i'm searching for web-dev work. <br> <br> 🔭 I’m currently working on Nowhere <br>🌱 I’m currently repeating all things which i learned</b> <br>💬 Ask me about <b>coding</b></h3>
 
 ####
 
 
 
-<h2 align="left">🛠 Technologies:</h2>
+<h1 align="left">🛠 Technologies:</h1>
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-<h2 align="left">🔥   My Statistic :</h2>
+<h1 align="left">🔥   My Statistic :</h1>
 
 
 
