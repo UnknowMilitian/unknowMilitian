@@ -12,22 +12,15 @@
 ######
 
 
-<h1 align="left">👩‍💻  About Me</h1>
+<h2 align="left">👩‍💻  About Me</h2>
 
-<h3 align="left">Fullname: Umariy Jaloliddin 17.5-y.o, I studied at Robocode 2020-2021 November. Now i'm searching for web-dev work. <br> <br> 🔭 I’m currently working on Nowhere <br>🌱 I’m currently repeating all things which i learned</b> <br>💬 Ask me about <b>coding</b></h3>
+<h4 align="left">Fullname: Umariy Jaloliddin 17.5-y.o, I studied at Robocode 2020-2021 November. Now i'm searching for web-dev work. <br> <br> 🔭 I’m currently working on Nowhere <br>🌱 I’m currently repeating all things which i learned</b> <br>💬 Ask me about <b>coding</b></h4>
 
 ####
 
 
-<h1 align="left">Connect with me:</h1>
-<h4 align="left">
-<a href="https://www.linkedin.com/in/jaloliddin-umariy-4b0a79251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaloliddin-umariy-4b0a79251/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/potniy_nibba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/potniy_nibba/" height="30" width="40" /></a>
-</h4>
 
-
-
-<h1 align="left">🛠 Technologies:</h1>
+<h2 align="left">🛠 Technologies:</h2>
 
 
 
@@ -43,7 +36,7 @@
 
 
 
-<h1 align="left">🔥   My Statistic :</h1>
+<h2 align="left">🔥   My Statistic :</h2>
 
 
 
