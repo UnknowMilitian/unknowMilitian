@@ -10,14 +10,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://t.me/umariy_jaloliddin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
@@ -28,8 +20,10 @@
 
 ###
 
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
+<a href="https://t.me/umariy_jaloliddin"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" width="40" alt="telegram logo"  /></a>
 <a href="https://www.linkedin.com/in/jaloliddin-umariy-4b0a79251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nurullosalaydinov/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/potniy_nibba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nurullosalaydinov" height="30" width="40" /></a>
 </p>
