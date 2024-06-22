@@ -14,7 +14,8 @@
 
 <h1 align="left">👩‍💻  About Me</h1>
 
-<h3 align="left">Fullname: Umariy Jaloliddin 17.5-y.o, I studied at Robocode 2020-2021 November. Now i'm searching for web-dev work. <br> <br> 🔭 I’m currently working on Nowhere <br>🌱 I’m currently repeating all things which i learned</b> <br>💬 Ask me about <b>coding</b></h3>
+<h3 align="left">Umariy Jaloliddin, a motivated 17.5-year-old with a strong passion for technology and development, is actively seeking opportunities in the field of web development. My journey began at Robocode, where I studied from 2020 until November 2021. During this time, I gained a solid foundation in coding principles and honed my skills in various programming languages and frameworks.
+Since then, I have continued to expand my knowledge and experience, staying updated with the latest trends and technologies in web development. I am eager to apply my skills in a professional setting, contributing to dynamic projects and learning from experienced professionals. My goal is to build a successful career in web development, where I can create innovative solutions and deliver high-quality work. <br> <br> 🔭 I’m currently working on Nowhere <br>🌱 I’m currently repeating all things which i learned</b> <br>💬 Ask me about <b>coding</b></h3>
 
 ####
 
