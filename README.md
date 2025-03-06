@@ -14,7 +14,7 @@
 
 <h1 align="left">👩‍💻  About Me</h1>
 
-<h3 align="left">Umariy Jaloliddin an 18-year-old backend developer with expertise in Django, Django REST Framework (DRF), PostgreSQL, Celery, Redis, and Stripe. My journey began at Robocode (2020–2021), where I built a strong foundation in programming. Since then, I’ve worked on various projects, focusing on building scalable APIs, optimizing database queries, and integrating payment systems. Currently, I’m interning at UIC Group (since January 20, 2025), working on bug fixes and backend development. Passionate about creating efficient and high-performance systems, I continuously expand my skills to stay at the forefront of web development. <br></h3>
+<h3 align="left">I'm an 18-year-old backend developer with expertise in Django, Django REST Framework (DRF), PostgreSQL, Celery, Redis, and Stripe. My journey began at Robocode (2020–2021), where I built a strong foundation in programming. Since then, I’ve worked on various projects, focusing on building scalable APIs, optimizing database queries, and integrating payment systems. Currently, I’m interning at UIC Group (since January 20, 2025), working on bug fixes and backend development. Passionate about creating efficient and high-performance systems, I continuously expand my skills to stay at the forefront of web development. <br></h3>
 
 ####
 
