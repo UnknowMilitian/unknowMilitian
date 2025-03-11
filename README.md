@@ -22,7 +22,7 @@
 
 <h1 align='left'>Timeline</h1>
 
-![Lines of Code chart](https://raw.githubusercontent.com/AsliddinTuxtasinov/AsliddinTuxtasinov/master/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/UnknowMilitian/UnknowMilitian/master/assets/bar_graph.png)
 
 
 ####
